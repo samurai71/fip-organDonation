@@ -1,0 +1,20 @@
+.hidden {
+  display: none;
+}
+
+#wrapper {
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
+
+.hero {
+  background-color: rgba(186, 216, 222, .5);
+}
+
+.signup {
+  background-color: rgba(186, 216, 222, .5);
+}
+
+/* .title-bar {
+  background-color: rgba(186, 216, 222, 0.5) !important;
+} */
