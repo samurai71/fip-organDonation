@@ -13,9 +13,10 @@
 }
 
 .register {
-/*  -ms-transform: rotate(-15deg); /* IE 9 */
-  /*  -webkit-transform: rotate(-15deg); /* Safari */
-/*    transform: rotate(-15deg); /* Standard syntax */
+  /*background:
+  -ms-transform: rotate(-15deg); /* IE 9 */
+/*  -webkit-transform: rotate(-15deg); /* Safari */
+  /*  transform: rotate(-15deg); /* Standard syntax */
     background-color: #003e72;
     color: #ffffff;
 }
