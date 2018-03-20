@@ -1,3 +1,8 @@
+.dark-blue {
+  color: #003e72;
+
+}
+
 .hidden {
   display: none;
 }
@@ -7,9 +12,9 @@
   margin-bottom: 2em;
 }
 
-.hero {
+/* .hero {
   background-color: rgba(186, 216, 222, .5);
-}
+} */
 
 .signup {
   background-color: rgba(186, 216, 222, .5);
