@@ -13,22 +13,35 @@
 }
 
 .register {
-  /*background:
+ /*background:
   -ms-transform: rotate(-15deg); /* IE 9 */
-/*  -webkit-transform: rotate(-15deg); /* Safari */
-  /*  transform: rotate(-15deg); /* Standard syntax */
+/* -webkit-transform: rotate(-15deg); /* Safari */
+/* transform: rotate(-15deg); /* Standard syntax */
     background-color: #003e72;
     color: #ffffff;
+    padding: 1em;
 }
+/* .register h2 {
+  -ms-transform: rotate(15deg); /* IE 9 */
+/*  -webkit-transform: rotate(15deg); /* Safari */
+/* transform: rotate(15deg); /* Standard syntax */
+/*}*/
 
 /* .hero {
   background-color: rgba(186, 216, 222, .5);
 } */
 
 .signup {
-  background-color: rgba(186, 216, 222, .5);
+  /* background-color: rgba(186, 216, 222, .5); */
+  color: ##003e72;
 }
 
 /* .title-bar {
   background-color: rgba(186, 216, 222, 0.5) !important;
 } */
+
+.footerbar {
+  background-color: #3fa0f3;
+  color: #ffffff;
+  padding: 1em;
+}
