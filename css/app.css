@@ -36,6 +36,24 @@
   color: ##003e72;
 }
 
+.information {
+  background-color: #3fa0f3;
+  color: #ffffff;
+  padding: 1em;
+}
+
+#partners {
+  background-color: #3fa0f3;
+  color: #ffffff;
+  padding: 1em;
+}
+
+#subscriber {
+  background-color: #003e72;
+  color: #ffffff;
+  padding: 1em;
+}
+
 /* .title-bar {
   background-color: rgba(186, 216, 222, 0.5) !important;
 } */
