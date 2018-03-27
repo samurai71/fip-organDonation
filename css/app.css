@@ -80,3 +80,59 @@
   color: #ffffff;
   padding: 1em;
 }
+
+/*Stories*/
+
+.messageBubble {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.messageBubble p {
+  color: #F8F8FF;
+}
+#storiesForm {
+  padding: 50px;
+  /* background-color: #ec202f; */
+  background-color: #003e72;
+  color: #F8F8FF;
+  border-radius: 20px;
+}
+#storiesForm label {
+  color: #fff;
+  font-weight: 700;
+}
+#storiesForm h3 {
+  color: #fff;
+  text-align: center;
+}
+.message {
+  /* background-color: #ec202f; */
+  background-color: #003e72;
+  border-radius: 20px;
+  padding: 30px;
+  margin-top: 20px;
+  font-weight: 400;
+}
+#storiesHashtag {
+  text-align: center;
+  font-size: 2em;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.platform img {
+  width: 22px;
+  right: 20px;
+}
+.storiesRed {
+  color: #F8F8FF;
+  font-size: 1.2em;
+  text-transform: uppercase;
+}
+.bubbleTail {
+  margin-top: -20px;
+}
+#shareFormTitle {
+  margin-top: 40px;
+  font-size: 2em;
+  text-align: center;
+}
