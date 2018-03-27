@@ -1,3 +1,10 @@
+<<<<<<< HEAD
+=======
+.dark-blue {
+  color: #003e72;
+}
+
+>>>>>>> frontend
 .hidden {
   display: none;
 }
@@ -7,14 +14,84 @@
   margin-bottom: 2em;
 }
 
+<<<<<<< HEAD
 .hero {
   background-color: rgba(186, 216, 222, .5);
 }
 
 .signup {
   background-color: rgba(186, 216, 222, .5);
+=======
+
+
+.register {
+ /*background:
+  -ms-transform: rotate(-15deg); /* IE 9 */
+/* -webkit-transform: rotate(-15deg); /* Safari */
+ /*transform: rotate(-15deg); /* Standard syntax */
+    background-color: #003e72;
+    color: #ffffff;
+    width:100%;
+    padding: 1em;
+}
+
+/* .tilted {
+  -ms-transform: rotate(-15deg);
+  -webkit-transform: rotate(-15deg);
+  transform: rotate(-15deg);
+  background-color: #003e72;
+} */
+
+.tilted h2 {
+  -ms-transform: rotate(15deg);
+  -webkit-transform: rotate(15deg);
+  transform: rotate(15deg);
+  }
+
+/*.register h2 {
+  -ms-transform: rotate(15deg); /* IE 9 */
+ /*-webkit-transform: rotate(15deg); /* Safari */
+ /*transform: rotate(15deg); /* Standard syntax */
+/*}*/
+
+
+/* .hero {
+  background-color: rgba(186, 216, 222, .5);
+} */
+
+.signup {
+  /* background-color: rgba(186, 216, 222, .5); */
+  color: #003e72;
+}
+
+.information {
+  background-color: #3fa0f3;
+  color: #ffffff;
+  padding: 1em;
+}
+
+#partners {
+  background-color: #3fa0f3;
+  color: #ffffff;
+  padding: 1em;
+}
+
+#subscriber {
+  background-color: #003e72;
+  color: #ffffff;
+  padding: 1em;
+>>>>>>> frontend
 }
 
 /* .title-bar {
   background-color: rgba(186, 216, 222, 0.5) !important;
 } */
+<<<<<<< HEAD
+=======
+
+.footerbar {
+  background-color: #3fa0f3;
+  color: #ffffff;
+  padding: 1em;
+}
+>>>>>>> frontend
