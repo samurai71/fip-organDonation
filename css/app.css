@@ -11,20 +11,38 @@
   margin-bottom: 2em;
 }
 
+
+
 .register {
  /*background:
   -ms-transform: rotate(-15deg); /* IE 9 */
 /* -webkit-transform: rotate(-15deg); /* Safari */
-/* transform: rotate(-15deg); /* Standard syntax */
+ /*transform: rotate(-15deg); /* Standard syntax */
     background-color: #003e72;
     color: #ffffff;
+    width:100%;
     padding: 1em;
 }
-/* .register h2 {
+
+/* .tilted {
+  -ms-transform: rotate(-15deg);
+  -webkit-transform: rotate(-15deg);
+  transform: rotate(-15deg);
+  background-color: #003e72;
+} */
+
+.tilted h2 {
+  -ms-transform: rotate(15deg);
+  -webkit-transform: rotate(15deg);
+  transform: rotate(15deg);
+  }
+
+/*.register h2 {
   -ms-transform: rotate(15deg); /* IE 9 */
-/*  -webkit-transform: rotate(15deg); /* Safari */
-/* transform: rotate(15deg); /* Standard syntax */
+ /*-webkit-transform: rotate(15deg); /* Safari */
+ /*transform: rotate(15deg); /* Standard syntax */
 /*}*/
+
 
 /* .hero {
   background-color: rgba(186, 216, 222, .5);
