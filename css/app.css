@@ -136,3 +136,56 @@
   font-size: 2em;
   text-align: center;
 }
+
+/*Bubbles for informatin*/
+
+#diagramSvg {
+  margin-top: 20px;
+  margin-bottom: 40px;
+}
+#diagramBox {
+  background-color: #ec202f;
+  color: #fff;
+  border-radius: 10px;
+  padding-top: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+  font-size: 0.79em;
+  box-shadow: 6px 6px 5px #888888;
+}
+#diagramBubble {
+  position: absolute;
+  left: 5%;
+  right: 5%;
+  width: 90%;
+  z-index: 0;
+  display: none;
+  font-weight: 400;
+}
+#diagramBubble h4 {
+  color: #F8F8FF;
+}
+#diagramBubble img {
+  width: 80px;
+  right: 30px;
+  position: absolute;
+  margin-top: -1px;
+}
+#diagramGuy img {
+  height: auto;
+  width: 30%;
+  left: 35%;
+  right: 35%;
+  top: 270px;
+  position: absolute;
+}
+#diagramClose {
+  right: 20px;
+  top: 10px;
+  position: absolute;
+  font-size: 2em;
+  font-weight: 700;
+  cursor: default;
+  color: #F8F8FF;
+}
