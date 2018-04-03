@@ -50,6 +50,7 @@
 
                 <div class="app-dashboard-body-content off-canvas-content" data-off-canvas-content>
               <h2 class="text-center">Users</h2>
+              <a href="user_new.php">Create new User</a>
                 <table class="dashboard-table">
                   <colgroup>
                     <col width="150">
@@ -61,12 +62,12 @@
                   </colgroup>
                   <thead>
                     <tr>
-                      <th><a href="#">Column 1 <i class="fa fa-caret-down"></i></a></th>
-                      <th><a href="#">Column 2 <i class="fa fa-caret-down"></i></a></th>
-                      <th><a href="#">Column 3 <i class="fa fa-caret-down"></i></a></th>
-                      <th><a href="#">Column 4 <i class="fa fa-caret-down"></i></a></th>
-                      <th><a href="#">Column 5 <i class="fa fa-caret-down"></i></a></th>
-                      <th><a href="#">Column 6 <i class="fa fa-caret-down"></i></a></th>
+                      <th>ID </th>
+                      <th>Name</th>
+                      <th>Email</th>
+                      <th>Username</th>
+                      <th>User Level</th>
+                      
                     </tr>
                   </thead>
                   <tbody>

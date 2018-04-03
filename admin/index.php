@@ -1,5 +1,6 @@
 <?php 
   $pageTitle = "Home";
+  require_once ('../admin/phpscripts/initialize.php');
   include ('includes/header.php');
    include ('includes/topnav.php');
   //include ('includes/sidebarnav.php')
