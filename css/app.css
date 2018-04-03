@@ -1,11 +1,15 @@
+<<<<<<< HEAD
 .dark-blue {
   color: #003e72;
 }
 
+=======
+>>>>>>> backend
 .hidden {
   display: none;
 }
 
+<<<<<<< HEAD
 .bold {
 	font-weight: bold;
 }
@@ -14,11 +18,14 @@
 	text-decoration: underline;
 }
 
+=======
+>>>>>>> backend
 #wrapper {
   margin-top: 2em;
   margin-bottom: 2em;
 }
 
+<<<<<<< HEAD
 
 
 .register {
@@ -101,11 +108,20 @@
   background-color: #003e72;
   color: #ffffff;
   padding: 1em;
+=======
+.hero {
+  background-color: rgba(186, 216, 222, .5);
+}
+
+.signup {
+  background-color: rgba(186, 216, 222, .5);
+>>>>>>> backend
 }
 
 /* .title-bar {
   background-color: rgba(186, 216, 222, 0.5) !important;
 } */
+<<<<<<< HEAD
 
 .footerbar {
   background-color: #3fa0f3;
@@ -221,3 +237,5 @@
   cursor: default;
   color: #F8F8FF;
 }
+=======
+>>>>>>> backend
